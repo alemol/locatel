@@ -49,243 +49,200 @@ La clasificación de reportes de atención ciudadana para la ciudad de México e
 
 ```
 {
+    "confianza": "0.9999691247940063",
     "presunto_motivo": "BACHEO",
     "texto": "Solicito que reparen los baches enormes que hay en el asfalto.",
     "valores_confianza": [
         {
-            "confianza": "4.056988522904703e-09",
+            "confianza": "5.855997464720986e-09",
             "motivo": "ALARMAS VECINALES"
         },
         {
-            "confianza": "3.261275196564384e-05",
-            "motivo": "ALERTA SISMICA / FALLA DE ALTAVOZ"
+            "confianza": "1.6508097999690108e-08",
+            "motivo": "ALERTA SISMICA"
         },
         {
-            "confianza": "0.00011930931941606104",
+            "confianza": "9.376478971034885e-08",
             "motivo": "ALUMBRADO"
         },
         {
-            "confianza": "1.767668322827376e-08",
+            "confianza": "2.1950118167524124e-08",
             "motivo": "APOYO SERVICIOS FUNERARIOS"
         },
         {
-            "confianza": "6.671320162965344e-10",
+            "confianza": "2.013153910240817e-08",
             "motivo": "ASESORÍA DE TERCEROS ACREDITADOS"
         },
         {
-            "confianza": "1.3292391543018311e-07",
+            "confianza": "6.779178875149228e-06",
             "motivo": "ASESORÍA JURÍDICA"
         },
         {
-            "confianza": "4.7037343620104366e-07",
+            "confianza": "2.101147172917095e-10",
             "motivo": "ASISTENCIA SOCIAL"
         },
         {
-            "confianza": "4.573704526222855e-09",
+            "confianza": "3.2906490332607063e-07",
             "motivo": "ASISTENCIA VETERINARIA"
         },
         {
-            "confianza": "0.9976219534873962",
+            "confianza": "0.9999691247940063",
             "motivo": "BACHEO"
         },
         {
-            "confianza": "6.5154376898135524e-06",
+            "confianza": "2.1420747398082085e-09",
             "motivo": "BALIZAMIENTO"
         },
         {
-            "confianza": "8.794775112619391e-07",
+            "confianza": "1.1015010414894277e-07",
             "motivo": "BARBECHO / CHAPONEO"
         },
         {
-            "confianza": "1.5413505138894834e-07",
+            "confianza": "2.793836095804636e-08",
             "motivo": "BECAS"
         },
         {
-            "confianza": "2.979243618028704e-06",
-            "motivo": "CONSTRUCCION DE RAMPAS"
-        },
-        {
-            "confianza": "4.331582592609351e-10",
-            "motivo": "CONTANCIA DE PRODUCTOR AGROPECUARIO"
-        },
-        {
-            "confianza": "2.0188119833619567e-06",
+            "confianza": "2.995577233377844e-06",
             "motivo": "COVID"
         },
         {
-            "confianza": "7.834269695194962e-07",
-            "motivo": "COVID-GENERALES"
-        },
-        {
-            "confianza": "4.4450111147398275e-08",
-            "motivo": "COVID-LABORAL"
-        },
-        {
-            "confianza": "4.58285376225831e-06",
-            "motivo": "COVID-MEDIDAS SANITARIAS"
-        },
-        {
-            "confianza": "6.6130714237999655e-09",
-            "motivo": "COVID-REAPERTURA"
-        },
-        {
-            "confianza": "1.1101877195329735e-09",
+            "confianza": "2.150648192866811e-08",
             "motivo": "CRÉDITO DE VIVIENDA"
         },
         {
-            "confianza": "8.61082153278403e-05",
+            "confianza": "1.0316749694538885e-06",
             "motivo": "DESAZOLVE"
         },
         {
-            "confianza": "3.7423309549922124e-05",
+            "confianza": "3.2258881788038707e-07",
             "motivo": "FALTA DE AGUA"
         },
         {
-            "confianza": "7.594125781906769e-05",
+            "confianza": "4.6606808723481663e-07",
             "motivo": "FUGA DE AGUA"
         },
         {
-            "confianza": "4.643484032840206e-07",
+            "confianza": "1.660583670570759e-08",
             "motivo": "LIMPIEZA VIA PUBLICA"
         },
         {
-            "confianza": "9.396184275090036e-09",
+            "confianza": "1.7826150278121844e-10",
             "motivo": "LLAVE CDMX"
         },
         {
-            "confianza": "0.0009946560021489859",
+            "confianza": "7.1920558184501715e-06",
             "motivo": "MANTENIMIENTO DE COLADERA / ALCANTARILLA"
         },
         {
-            "confianza": "8.028893353184685e-05",
-            "motivo": "MANTENIMIENTO DE POSTE"
-        },
-        {
-            "confianza": "6.228509846550878e-06",
+            "confianza": "8.446786523563787e-07",
             "motivo": "MANTENIMIENTO DRENAJE"
         },
         {
-            "confianza": "4.679141056840308e-05",
+            "confianza": "1.0973845832040752e-07",
             "motivo": "MANTENIMIENTO PARQUE / AREA VERDE"
         },
         {
-            "confianza": "4.769008228322491e-05",
+            "confianza": "5.1427299752049294e-08",
             "motivo": "MANTENIMIENTO SEMÁFOROS"
         },
         {
-            "confianza": "1.8797603843268007e-05",
+            "confianza": "1.0201487157246447e-06",
             "motivo": "MANTENIMIENTO VÍA PÚBLICA"
         },
         {
-            "confianza": "1.4070009157762797e-08",
-            "motivo": "PADRÓN DE ARTESANAS SEPI"
-        },
-        {
-            "confianza": "5.826684719067998e-05",
+            "confianza": "2.041733068836038e-06",
             "motivo": "PAVIMENTACION"
         },
         {
-            "confianza": "3.567042439200918e-09",
-            "motivo": "PENSIÓN DE ADULTOS MAYORES"
-        },
-        {
-            "confianza": "0.0001657303946558386",
+            "confianza": "5.0249401084556666e-08",
             "motivo": "PODA / RETIRO ARBOL"
         },
         {
-            "confianza": "6.302379729206109e-10",
+            "confianza": "2.941054344507421e-10",
             "motivo": "PROGRAMA APOYO A CUIDADORES"
         },
         {
-            "confianza": "3.302261757198721e-05",
+            "confianza": "4.5485478494811105e-08",
             "motivo": "PROTECCION CIVIL"
         },
         {
-            "confianza": "5.767625680164201e-06",
+            "confianza": "7.931525658477767e-09",
             "motivo": "QUEJA DE TRANSPORTE PUBLICO"
         },
         {
-            "confianza": "4.451259883353487e-06",
+            "confianza": "1.642347369212871e-10",
             "motivo": "QUEJA FUNCIONARIO"
         },
         {
-            "confianza": "4.692274160333909e-05",
+            "confianza": "2.1485819345912205e-08",
             "motivo": "RECOLECCIÓN BASURA"
         },
         {
-            "confianza": "1.685450712329839e-08",
+            "confianza": "1.130492410794659e-08",
             "motivo": "REGISTRO FERIAS INDIGENAS"
         },
         {
-            "confianza": "7.045805432426278e-07",
+            "confianza": "6.668334329162917e-09",
             "motivo": "REINSCRIPCION AL CENDI"
         },
         {
-            "confianza": "2.5874342099996284e-06",
+            "confianza": "2.4702144401089754e-06",
             "motivo": "REPARACION DE EMPEDRADO"
         },
         {
-            "confianza": "2.1473729461263247e-08",
+            "confianza": "2.659982234476388e-10",
             "motivo": "RETIRO AMBULANTE"
         },
         {
-            "confianza": "1.3912026588513982e-05",
+            "confianza": "3.527275111991912e-07",
             "motivo": "RETIRO CASCAJO, ESCOMBRO, AZOLVE, RAMAS"
         },
         {
-            "confianza": "4.325304416852305e-06",
+            "confianza": "8.449433863688682e-08",
             "motivo": "SOLICITU DE AUDIENCIA"
         },
         {
-            "confianza": "5.924847457094984e-08",
+            "confianza": "4.377609386096992e-08",
             "motivo": "SOLICITUD DE CONCERTACIÓN VECINAL"
         },
         {
-            "confianza": "0.0003978286113124341",
+            "confianza": "8.542100999875402e-07",
             "motivo": "SOLICITUD DE VIGILANCIA"
         },
         {
-            "confianza": "8.257480033080355e-08",
+            "confianza": "5.465365120471688e-07",
             "motivo": "SOLICITUD DE VOLANTEO"
         },
         {
-            "confianza": "1.939996385758036e-09",
+            "confianza": "3.797928638249459e-10",
             "motivo": "SOLICITUD ESTUDIO SOCIOECONOMICO"
         },
         {
-            "confianza": "1.3597634129780545e-09",
+            "confianza": "2.550905946918647e-06",
             "motivo": "SOLICITUD EVALUACIÓN DE RIESGO"
         },
         {
-            "confianza": "1.5661160432500765e-05",
+            "confianza": "9.564012914964337e-10",
             "motivo": "SOLICITUD/SEGURO DE DESEMPLEO"
         },
         {
-            "confianza": "2.7659673662583373e-08",
+            "confianza": "2.3735749477005186e-10",
             "motivo": "TRAMITES / INFO VEHICULAR"
         },
         {
-            "confianza": "2.8232368549652165e-06",
-            "motivo": "TRAMITES E INFORMACION"
-        },
-        {
-            "confianza": "1.008707783967111e-08",
-            "motivo": "TRAMITES/INFO VEHICULAR"
-        },
-        {
-            "confianza": "1.1595670912356582e-06",
+            "confianza": "1.439288581650544e-07",
             "motivo": "USO DE SUELO"
         },
         {
-            "confianza": "3.4869517548941076e-05",
+            "confianza": "9.167552939004509e-09",
             "motivo": "VEHÍCULO ABANDONADO / CHATARRIZACIÓN"
         },
         {
-            "confianza": "1.734049874357879e-05",
+            "confianza": "1.5218832061236753e-07",
             "motivo": "VENTA DE ALCOHOL / DROGA"
         },
         {
-            "confianza": "7.589734650537139e-06",
+            "confianza": "5.460225338538294e-08",
             "motivo": "VERIFICACIÓN ADMINISTRATIVA"
         }
     ]
@@ -304,7 +261,7 @@ La clasificación de reportes de atención ciudadana para la ciudad de México e
 
 <!-- * **Oscar Gerardo Sanchez Siordia** - [Conacyt-CentroGeo](http://mid.geoint.mx/site/integrante/id/31.html)
  -->
- 
+
 ## Instituciones Participantes
 
   * [CentroGeo](https://www.centrogeo.org.mx/) - Centro de Investigación en Ciencias de Información Geoespacial
