@@ -89,9 +89,12 @@ def build_response(text, pred_vals):
     v = pred_vals[0]
     list_labeled = list()
     index_max = np.argmax(v)
+    max_confidence = v[index_max]
     for index, confidence in np.ndenumerate(v):
-        logging.info('{}, {}'.format(CATEGORIES[index[0]], confidence))
-        list_labeled.append(dict({"motivo":CATEGORIES[index[0]],  "confianza": '{}'.format(confidence)}))
-    response_dict= dict({"presunto_motivo":CATEGORIES[index_max],"confianza": '{}'.format(v[index_max]), "texto": text, "valores_confianza": list_labeled})
+        logging.info('{}, {}'.format(CATEGORIES[index[0]],confidence))
+        rounded_confidence =  round(confidence, 8)
+        list_labeled.append(dict({"motivo":CATEGORIES[index[0]],  "confianza": '{0:0.8f}'.format(rounded_confidence)}))
+    rounded_max_confidence = round(max_confidence, 8)
+    response_dict= dict({"presunto_motivo":CATEGORIES[index_max],"confianza": '{0:0.8f}'.format(rounded_max_confidence), "texto": text, "valores_confianza": list_labeled})
     return response_dict
 
